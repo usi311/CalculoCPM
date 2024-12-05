@@ -1,0 +1,30 @@
+
+.tree-display-container {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .tree-content {
+    font-family: 'Courier New', monospace;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: left;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #4CAF50;
+  }
+
+  #diagram {
+    background-color: #ffffff; /* Fondo blanco */
+    padding: 20px;
+  }
+  
+  

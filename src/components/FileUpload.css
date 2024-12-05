@@ -1,0 +1,29 @@
+/* Estilos para la zona de carga de archivo */
+.file-upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .file-dropzone {
+    border: 2px dashed #4CAF50;
+    padding: 20px;
+    width: 80%;
+    max-width: 400px;
+    margin: 20px 0;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .file-dropzone p {
+    margin: 0;
+    color: #4CAF50;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
